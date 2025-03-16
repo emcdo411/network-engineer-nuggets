@@ -63,5 +63,5 @@ Check out additional resources:
 
 👨‍💻 **Contributed by:** [Maurice McDonald]
 
-📌 **GitHub Repository:** [Your Repository Link]  
+📌 **GitHub Repository:** [https://github.com/emcdo411/network-engineer-nugget]  
 🔥 Star this repo if you found it helpful!
